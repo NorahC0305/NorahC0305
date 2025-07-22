@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=norahc0305" alt="norahc0305" /></a> </p>
 
-- 🔭 I’m currently working on [PhotoGo - Photography Booking System](https://github.com/PhuocHuynh63/PhotoGo_FE)
+- 🔭 I’m currently working on [PhotoGo - Photography Booking System - FE](https://github.com/PhuocHuynh63/PhotoGo_FE) - [PhotoGo - Photography Booking System - BE](https://github.com/PhuocHuynh63/PhotoGo_BE)
 
 - 📫 How to reach me **vunguyen003pv@gmail.com**
 
